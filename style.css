@@ -1,0 +1,21 @@
+h1, h2, h3 {
+	color: grey;
+	font-family: Arial;
+}
+/*selector*/
+body {
+	/*Declaration*/
+	padding: 16px;
+	/*property : value;*/
+}
+.myStyle {
+	color: blue;
+	font-family: Arial;
+	font-weight: bold;
+}
+
+#myHeading{
+	color: black;
+	font-weight: bold;
+	font-family: Arial;
+}
